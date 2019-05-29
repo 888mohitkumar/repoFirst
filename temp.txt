@@ -3,3 +3,5 @@ hello inside temp.txt file first line.
 hello inside temp.txt file second line.
 
 hello inside temp.txt file third line.
+
+In child branch.
