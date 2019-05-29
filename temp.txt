@@ -1,1 +1,3 @@
-hello inside temp.txt file
+hello inside temp.txt file first line
+
+hello indie temp.txt file second line
